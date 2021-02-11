@@ -2,6 +2,8 @@
 
 This project built with framework Codeigniter 3 and MySql
 
+If you want CodeIgniter4 version, see <https://github.com/kenjis/ci4-online-games-store>.
+
 Login with admin role:
 
 email: admin@gmail.com
